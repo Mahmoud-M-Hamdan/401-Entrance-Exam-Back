@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Mahmoud-M-Hamdan/401-Entrance-Exam-Back/issues"
   },
-  "homepage": "https://github.com/Mahmoud-M-Hamdan/401-Entrance-Exam-Back#readme"
+  "homepage": "https://github.com/Mahmoud-M-Hamdan/401-Entrance-Exam-Back#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.9"
+  }
 }
